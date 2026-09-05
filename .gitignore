@@ -1,0 +1,4 @@
+.DS_Store
+Thumbs.db
+server.log
+.playwright-mcp/
